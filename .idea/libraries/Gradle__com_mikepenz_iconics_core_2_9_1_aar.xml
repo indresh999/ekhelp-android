@@ -1,0 +1,24 @@
+<component name="libraryTable">
+  <library name="Gradle: com.mikepenz:iconics-core:2.9.1@aar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../book-salon-market/.gradle/caches/transforms-2/files-2.1/d1b75a216b1953dae9a7f311b4b297ca/jetified-iconics-core-2.9.1/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../book-salon-market/.gradle/caches/transforms-2/files-2.1/d1b75a216b1953dae9a7f311b4b297ca/jetified-iconics-core-2.9.1/res" />
+      <root url="file://$PROJECT_DIR$/../../book-salon-market/.gradle/caches/transforms-2/files-2.1/d1b75a216b1953dae9a7f311b4b297ca/jetified-iconics-core-2.9.1/AndroidManifest.xml" />
+      <root url="file://$PROJECT_DIR$/../../book-salon-market/.gradle/caches/transforms-2/files-2.1/f97dcc89e3f948c1d5075aabd4c9caf2/jetified-iconics-core-2.9.1/res" />
+      <root url="jar://$PROJECT_DIR$/../../book-salon-market/.gradle/caches/transforms-2/files-2.1/f97dcc89e3f948c1d5075aabd4c9caf2/jetified-iconics-core-2.9.1/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../book-salon-market/.gradle/caches/transforms-2/files-2.1/f97dcc89e3f948c1d5075aabd4c9caf2/jetified-iconics-core-2.9.1/AndroidManifest.xml" />
+      <root url="file://$PROJECT_DIR$/../../book-salon-market/.gradle/caches/transforms-2/files-2.1/74fb71073ef9c552b7fd4d846af85259/jetified-iconics-core-2.9.1/res" />
+      <root url="file://$PROJECT_DIR$/../../book-salon-market/.gradle/caches/transforms-2/files-2.1/74fb71073ef9c552b7fd4d846af85259/jetified-iconics-core-2.9.1/AndroidManifest.xml" />
+      <root url="jar://$PROJECT_DIR$/../../book-salon-market/.gradle/caches/transforms-2/files-2.1/74fb71073ef9c552b7fd4d846af85259/jetified-iconics-core-2.9.1/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../book-salon-market/.gradle/caches/transforms-2/files-2.1/60dec979236fc59215b73ac62662afaa/jetified-iconics-core-2.9.1/res" />
+      <root url="file://$PROJECT_DIR$/../../book-salon-market/.gradle/caches/transforms-2/files-2.1/60dec979236fc59215b73ac62662afaa/jetified-iconics-core-2.9.1/AndroidManifest.xml" />
+      <root url="jar://$PROJECT_DIR$/../../book-salon-market/.gradle/caches/transforms-2/files-2.1/60dec979236fc59215b73ac62662afaa/jetified-iconics-core-2.9.1/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/../../book-salon-market/.gradle/caches/modules-2/files-2.1/com.mikepenz/iconics-core/2.9.1/501821ddf828537db3cb79a4412002b56d702252/iconics-core-2.9.1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../book-salon-market/.gradle/caches/modules-2/files-2.1/com.mikepenz/iconics-core/2.9.1/ad02a09ae0b5b819f3bf97153919cc6780842f14/iconics-core-2.9.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

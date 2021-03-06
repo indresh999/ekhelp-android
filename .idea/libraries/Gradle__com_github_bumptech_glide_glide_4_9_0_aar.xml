@@ -1,0 +1,24 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.bumptech.glide:glide:4.9.0@aar">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../../book-salon-market/.gradle/caches/transforms-2/files-2.1/6eada3583e7b63fac448fb875908df29/jetified-glide-4.9.0/res" />
+      <root url="file://$PROJECT_DIR$/../../book-salon-market/.gradle/caches/transforms-2/files-2.1/6eada3583e7b63fac448fb875908df29/jetified-glide-4.9.0/AndroidManifest.xml" />
+      <root url="jar://$PROJECT_DIR$/../../book-salon-market/.gradle/caches/transforms-2/files-2.1/6eada3583e7b63fac448fb875908df29/jetified-glide-4.9.0/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../book-salon-market/.gradle/caches/transforms-2/files-2.1/5162567e2819c69e03c234331c5cc55c/jetified-glide-4.9.0/res" />
+      <root url="jar://$PROJECT_DIR$/../../book-salon-market/.gradle/caches/transforms-2/files-2.1/5162567e2819c69e03c234331c5cc55c/jetified-glide-4.9.0/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../book-salon-market/.gradle/caches/transforms-2/files-2.1/5162567e2819c69e03c234331c5cc55c/jetified-glide-4.9.0/AndroidManifest.xml" />
+      <root url="file://$PROJECT_DIR$/../../book-salon-market/.gradle/caches/transforms-2/files-2.1/10f843914aa07b0f8bab8f9d3ce36aae/jetified-glide-4.9.0/res" />
+      <root url="jar://$PROJECT_DIR$/../../book-salon-market/.gradle/caches/transforms-2/files-2.1/10f843914aa07b0f8bab8f9d3ce36aae/jetified-glide-4.9.0/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../book-salon-market/.gradle/caches/transforms-2/files-2.1/10f843914aa07b0f8bab8f9d3ce36aae/jetified-glide-4.9.0/AndroidManifest.xml" />
+      <root url="file://$PROJECT_DIR$/../../book-salon-market/.gradle/caches/transforms-2/files-2.1/fa506a262568fcf82edae3e9ffdc508a/jetified-glide-4.9.0/res" />
+      <root url="file://$PROJECT_DIR$/../../book-salon-market/.gradle/caches/transforms-2/files-2.1/fa506a262568fcf82edae3e9ffdc508a/jetified-glide-4.9.0/AndroidManifest.xml" />
+      <root url="jar://$PROJECT_DIR$/../../book-salon-market/.gradle/caches/transforms-2/files-2.1/fa506a262568fcf82edae3e9ffdc508a/jetified-glide-4.9.0/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/../../book-salon-market/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/glide/4.9.0/b53be1dd9e86c008d96d319510846282f95c49f/glide-4.9.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../book-salon-market/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/glide/4.9.0/5f95e3cc34b116a8024f2af42f66e257d2e28ccb/glide-4.9.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

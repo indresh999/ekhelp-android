@@ -1,0 +1,17 @@
+<component name="libraryTable">
+  <library name="Gradle: androidx.room:room-runtime:2.2.0-rc01@aar">
+    <ANNOTATIONS>
+      <root url="jar://$PROJECT_DIR$/../../book-salon-market/.gradle/caches/transforms-2/files-2.1/33eee371597396688805d2219caf6a54/room-runtime-2.2.0-rc01/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/33eee371597396688805d2219caf6a54/room-runtime-2.2.0-rc01/res" />
+      <root url="jar://$PROJECT_DIR$/../../book-salon-market/.gradle/caches/transforms-2/files-2.1/33eee371597396688805d2219caf6a54/room-runtime-2.2.0-rc01/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../book-salon-market/.gradle/caches/transforms-2/files-2.1/33eee371597396688805d2219caf6a54/room-runtime-2.2.0-rc01/AndroidManifest.xml" />
+      <root url="file://$PROJECT_DIR$/../../book-salon-market/.gradle/caches/transforms-2/files-2.1/33eee371597396688805d2219caf6a54/room-runtime-2.2.0-rc01/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../book-salon-market/.gradle/caches/modules-2/files-2.1/androidx.room/room-runtime/2.2.0-rc01/174ebdbe3e7a886906c6e488c230a74c6da0ccea/room-runtime-2.2.0-rc01-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

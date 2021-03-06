@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="Gradle: com.google.android.material:material:1.2.0-alpha01@aar">
+    <ANNOTATIONS>
+      <root url="jar://$PROJECT_DIR$/../../book-salon-market/.gradle/caches/transforms-2/files-2.1/714583dc736a742af190f1095a73b7c1/material-1.2.0-alpha01/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../../book-salon-market/.gradle/caches/transforms-2/files-2.1/714583dc736a742af190f1095a73b7c1/material-1.2.0-alpha01/AndroidManifest.xml" />
+      <root url="jar://$PROJECT_DIR$/../../book-salon-market/.gradle/caches/transforms-2/files-2.1/714583dc736a742af190f1095a73b7c1/material-1.2.0-alpha01/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../book-salon-market/.gradle/caches/transforms-2/files-2.1/714583dc736a742af190f1095a73b7c1/material-1.2.0-alpha01/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../book-salon-market/.gradle/caches/modules-2/files-2.1/com.google.android.material/material/1.2.0-alpha01/5faa2bc4f80afd19a660f3da098babf8945b0fab/material-1.2.0-alpha01-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

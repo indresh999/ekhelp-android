@@ -1,0 +1,21 @@
+<component name="libraryTable">
+  <library name="Gradle: com.google.android.ads.consent:consent-library:1.0.7@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/f96fb20b3154c08a646482f78d9f373b/jetified-consent-library-1.0.7/res" />
+      <root url="file://$PROJECT_DIR$/../../book-salon-market/.gradle/caches/transforms-2/files-2.1/5b64748218dd001b2325d57876a6620e/jetified-consent-library-1.0.7/res" />
+      <root url="jar://$PROJECT_DIR$/../../book-salon-market/.gradle/caches/transforms-2/files-2.1/5b64748218dd001b2325d57876a6620e/jetified-consent-library-1.0.7/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../book-salon-market/.gradle/caches/transforms-2/files-2.1/5b64748218dd001b2325d57876a6620e/jetified-consent-library-1.0.7/AndroidManifest.xml" />
+      <root url="file://$PROJECT_DIR$/../../book-salon-market/.gradle/caches/transforms-2/files-2.1/751330c6022148001c0ba2d95ffa348f/jetified-consent-library-1.0.7/res" />
+      <root url="file://$PROJECT_DIR$/../../book-salon-market/.gradle/caches/transforms-2/files-2.1/751330c6022148001c0ba2d95ffa348f/jetified-consent-library-1.0.7/AndroidManifest.xml" />
+      <root url="jar://$PROJECT_DIR$/../../book-salon-market/.gradle/caches/transforms-2/files-2.1/751330c6022148001c0ba2d95ffa348f/jetified-consent-library-1.0.7/jars/classes.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../book-salon-market/.gradle/caches/transforms-2/files-2.1/190491db64142d0359a82c4968ec973a/jetified-consent-library-1.0.7/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../book-salon-market/.gradle/caches/transforms-2/files-2.1/190491db64142d0359a82c4968ec973a/jetified-consent-library-1.0.7/res" />
+      <root url="file://$PROJECT_DIR$/../../book-salon-market/.gradle/caches/transforms-2/files-2.1/190491db64142d0359a82c4968ec973a/jetified-consent-library-1.0.7/AndroidManifest.xml" />
+      <root url="file://$PROJECT_DIR$/../../book-salon-market/.gradle/caches/transforms-2/files-2.1/343d38be16f17080cbcebd36b3efcfed/jetified-consent-library-1.0.7/res" />
+      <root url="jar://$PROJECT_DIR$/../../book-salon-market/.gradle/caches/transforms-2/files-2.1/343d38be16f17080cbcebd36b3efcfed/jetified-consent-library-1.0.7/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../book-salon-market/.gradle/caches/transforms-2/files-2.1/343d38be16f17080cbcebd36b3efcfed/jetified-consent-library-1.0.7/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

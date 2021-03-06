@@ -1,0 +1,25 @@
+<component name="libraryTable">
+  <library name="Gradle: com.facebook.android:facebook-core:5.0.0@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/f5f55ded515c811202be299dacadf431/jetified-facebook-core-5.0.0/res" />
+      <root url="file://$PROJECT_DIR$/../../book-salon-market/.gradle/caches/transforms-2/files-2.1/ac68fc0e6033c408c1fef9729e80035e/jetified-facebook-core-5.0.0/res" />
+      <root url="file://$PROJECT_DIR$/../../book-salon-market/.gradle/caches/transforms-2/files-2.1/ac68fc0e6033c408c1fef9729e80035e/jetified-facebook-core-5.0.0/AndroidManifest.xml" />
+      <root url="jar://$PROJECT_DIR$/../../book-salon-market/.gradle/caches/transforms-2/files-2.1/ac68fc0e6033c408c1fef9729e80035e/jetified-facebook-core-5.0.0/jars/classes.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../book-salon-market/.gradle/caches/transforms-2/files-2.1/361da41f073e359eb605cb0d317d0684/jetified-facebook-core-5.0.0/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../book-salon-market/.gradle/caches/transforms-2/files-2.1/361da41f073e359eb605cb0d317d0684/jetified-facebook-core-5.0.0/AndroidManifest.xml" />
+      <root url="file://$PROJECT_DIR$/../../book-salon-market/.gradle/caches/transforms-2/files-2.1/361da41f073e359eb605cb0d317d0684/jetified-facebook-core-5.0.0/res" />
+      <root url="file://$PROJECT_DIR$/../../book-salon-market/.gradle/caches/transforms-2/files-2.1/59b490dd33bfa939f459e32746bdc187/jetified-facebook-core-5.0.0/AndroidManifest.xml" />
+      <root url="jar://$PROJECT_DIR$/../../book-salon-market/.gradle/caches/transforms-2/files-2.1/59b490dd33bfa939f459e32746bdc187/jetified-facebook-core-5.0.0/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../book-salon-market/.gradle/caches/transforms-2/files-2.1/59b490dd33bfa939f459e32746bdc187/jetified-facebook-core-5.0.0/res" />
+      <root url="jar://$PROJECT_DIR$/../../book-salon-market/.gradle/caches/transforms-2/files-2.1/35d483c6d34e037f74a14259c507acba/jetified-facebook-core-5.0.0/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../book-salon-market/.gradle/caches/transforms-2/files-2.1/35d483c6d34e037f74a14259c507acba/jetified-facebook-core-5.0.0/res" />
+      <root url="file://$PROJECT_DIR$/../../book-salon-market/.gradle/caches/transforms-2/files-2.1/35d483c6d34e037f74a14259c507acba/jetified-facebook-core-5.0.0/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/../../book-salon-market/.gradle/caches/modules-2/files-2.1/com.facebook.android/facebook-core/5.0.0/7aad516418b22b72b24ff7f48175c6770c066d01/facebook-core-5.0.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../book-salon-market/.gradle/caches/modules-2/files-2.1/com.facebook.android/facebook-core/5.0.0/60d0485d842186de38fe02bb107a0b07de24191d/facebook-core-5.0.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

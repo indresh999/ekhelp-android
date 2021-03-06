@@ -1,0 +1,25 @@
+<component name="libraryTable">
+  <library name="Gradle: com.google.dagger:dagger-android-support:2.24@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/40de0f2a325baa2a51ff05fb3b98594b/jetified-dagger-android-support-2.24/res" />
+      <root url="file://$PROJECT_DIR$/../../book-salon-market/.gradle/caches/transforms-2/files-2.1/1398254ed11e5145d8a5aa6598bbcbae/jetified-dagger-android-support-2.24/res" />
+      <root url="file://$PROJECT_DIR$/../../book-salon-market/.gradle/caches/transforms-2/files-2.1/1398254ed11e5145d8a5aa6598bbcbae/jetified-dagger-android-support-2.24/AndroidManifest.xml" />
+      <root url="jar://$PROJECT_DIR$/../../book-salon-market/.gradle/caches/transforms-2/files-2.1/1398254ed11e5145d8a5aa6598bbcbae/jetified-dagger-android-support-2.24/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../book-salon-market/.gradle/caches/transforms-2/files-2.1/67d79c27cb55eeaefa80199ec2cb4152/jetified-dagger-android-support-2.24/res" />
+      <root url="file://$PROJECT_DIR$/../../book-salon-market/.gradle/caches/transforms-2/files-2.1/67d79c27cb55eeaefa80199ec2cb4152/jetified-dagger-android-support-2.24/AndroidManifest.xml" />
+      <root url="jar://$PROJECT_DIR$/../../book-salon-market/.gradle/caches/transforms-2/files-2.1/67d79c27cb55eeaefa80199ec2cb4152/jetified-dagger-android-support-2.24/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../book-salon-market/.gradle/caches/transforms-2/files-2.1/b62cc3f4e50130f52de8fde6a5e010aa/jetified-dagger-android-support-2.24/res" />
+      <root url="file://$PROJECT_DIR$/../../book-salon-market/.gradle/caches/transforms-2/files-2.1/b62cc3f4e50130f52de8fde6a5e010aa/jetified-dagger-android-support-2.24/AndroidManifest.xml" />
+      <root url="jar://$PROJECT_DIR$/../../book-salon-market/.gradle/caches/transforms-2/files-2.1/b62cc3f4e50130f52de8fde6a5e010aa/jetified-dagger-android-support-2.24/jars/classes.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../book-salon-market/.gradle/caches/transforms-2/files-2.1/565c0114fcbe54013065c8bf2b6d0286/jetified-dagger-android-support-2.24/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../book-salon-market/.gradle/caches/transforms-2/files-2.1/565c0114fcbe54013065c8bf2b6d0286/jetified-dagger-android-support-2.24/AndroidManifest.xml" />
+      <root url="file://$PROJECT_DIR$/../../book-salon-market/.gradle/caches/transforms-2/files-2.1/565c0114fcbe54013065c8bf2b6d0286/jetified-dagger-android-support-2.24/res" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/../../book-salon-market/.gradle/caches/modules-2/files-2.1/com.google.dagger/dagger-android-support/2.24/1b148417dd383fe34d5ad82998fbf040f3b7b5ff/dagger-android-support-2.24-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../book-salon-market/.gradle/caches/modules-2/files-2.1/com.google.dagger/dagger-android-support/2.24/aa4dcd38a7d2841c3991b0547945c577d8f19e2a/dagger-android-support-2.24-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

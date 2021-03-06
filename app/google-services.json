@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "761013557246",
+    "project_id": "ekhelp-ad4cd",
+    "storage_bucket": "ekhelp-ad4cd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:761013557246:android:1340be3478a517f74652af",
+        "android_client_info": {
+          "package_name": "com.ionic.ekhelp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "761013557246-rr9i24jtkb5p9fn63ni69mphp76uussp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCEMDyVSpJWGcQvBaukEz-aQjl_lXK7mlI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "761013557246-rr9i24jtkb5p9fn63ni69mphp76uussp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

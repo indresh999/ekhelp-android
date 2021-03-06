@@ -1,0 +1,22 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.jd-alexander:LikeButton:0.2.3@aar">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../../book-salon-market/.gradle/caches/transforms-2/files-2.1/607e87117eddaf23f33c76bcebcd52ff/jetified-LikeButton-0.2.3/AndroidManifest.xml" />
+      <root url="jar://$PROJECT_DIR$/../../book-salon-market/.gradle/caches/transforms-2/files-2.1/607e87117eddaf23f33c76bcebcd52ff/jetified-LikeButton-0.2.3/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../book-salon-market/.gradle/caches/transforms-2/files-2.1/607e87117eddaf23f33c76bcebcd52ff/jetified-LikeButton-0.2.3/res" />
+      <root url="file://$PROJECT_DIR$/../../book-salon-market/.gradle/caches/transforms-2/files-2.1/ecbc0894501a541ef1e9205645b93405/jetified-LikeButton-0.2.3/AndroidManifest.xml" />
+      <root url="file://$PROJECT_DIR$/../../book-salon-market/.gradle/caches/transforms-2/files-2.1/ecbc0894501a541ef1e9205645b93405/jetified-LikeButton-0.2.3/res" />
+      <root url="jar://$PROJECT_DIR$/../../book-salon-market/.gradle/caches/transforms-2/files-2.1/ecbc0894501a541ef1e9205645b93405/jetified-LikeButton-0.2.3/jars/classes.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../book-salon-market/.gradle/caches/transforms-2/files-2.1/c1c7fe66b56d8d47cf7be2a35daba1fd/jetified-LikeButton-0.2.3/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../book-salon-market/.gradle/caches/transforms-2/files-2.1/c1c7fe66b56d8d47cf7be2a35daba1fd/jetified-LikeButton-0.2.3/AndroidManifest.xml" />
+      <root url="file://$PROJECT_DIR$/../../book-salon-market/.gradle/caches/transforms-2/files-2.1/c1c7fe66b56d8d47cf7be2a35daba1fd/jetified-LikeButton-0.2.3/res" />
+      <root url="file://$PROJECT_DIR$/../../book-salon-market/.gradle/caches/transforms-2/files-2.1/27ff304d2b41de92f0a7fdbba23e844d/jetified-LikeButton-0.2.3/res" />
+      <root url="file://$PROJECT_DIR$/../../book-salon-market/.gradle/caches/transforms-2/files-2.1/27ff304d2b41de92f0a7fdbba23e844d/jetified-LikeButton-0.2.3/AndroidManifest.xml" />
+      <root url="jar://$PROJECT_DIR$/../../book-salon-market/.gradle/caches/transforms-2/files-2.1/27ff304d2b41de92f0a7fdbba23e844d/jetified-LikeButton-0.2.3/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../book-salon-market/.gradle/caches/modules-2/files-2.1/com.github.jd-alexander/LikeButton/0.2.3/49f207bda426d37df5486e94fa0fda88544fd838/LikeButton-0.2.3-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
